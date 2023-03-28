@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratyusha-karanam
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on more data science and python related projects
+- 👀 I’m interested in data analytics and engineering
+- 🌱 I’m currently pursuing masters at FIU
+- 💞️ I’m looking to collaborate on more data engineering projects
 - 📫 How to reach me kpsha97@gmail.com
 
 <!---
